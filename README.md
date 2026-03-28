@@ -22,4 +22,9 @@ Project structure:
    - route.tsx
    - index.css
    - mockData.tsx
+How to run:
+- npm install
+- npm run dev
 
+
+![Screenshot](images/screenshot1.png)
